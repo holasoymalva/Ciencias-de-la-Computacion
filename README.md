@@ -1,6 +1,6 @@
-# Ciencias de la computacion
+# Ciencias de la computación
 
-> Una lista de recursos y apuntes sobre Ciencias de la Computacion en español.
+> Una lista de recursos y apuntes sobre Ciencias de la Computación en español.
 
 ## Tabla de contenidos
 
@@ -10,38 +10,37 @@
 
 ## Recursos
 
-#### Logica de programacion
+#### Lógica de programación
 
 #### Algoritmos Computacionales
-* []()
 
-#### Base de datos
+#### Bases de datos
 
 #### Diseño y arquitectura de sistemas
 
 #### Desarrollo de Prototipos
 
-#### Teoria computacional y Automatas
+#### Teoría computacional y de autómatas.
 
-#### Matematicas discretas
+#### Matemáticas discretas.
 
-#### Sistemas Digitales
+#### Sistemas Digitales.
 
-#### Robotica Mobil
+#### Robótica Móvil.
 
-#### Introduccion a la Inteligencia Artificial
+#### Introducción a la inteligencia artificial.
 
-#### Estadistica 
+#### Estadística. 
 
-#### Probabilidad
+#### Probabilidad.
 
-#### Desarrollo Web
+#### Desarrollo Web.
 
-#### Sistemas Operativos
+#### Sistemas Operativos.
 
-#### Compiladores
+#### Teoría de compiladores.
 
-#### Simulacion de Sistemas
+#### Simulación de sistemas.
 
 ## Sitios/Blogs
 
