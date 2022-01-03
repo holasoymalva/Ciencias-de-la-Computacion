@@ -8,7 +8,7 @@
 - [Sitios/Blogs](#sitiosblogs)
 - [Videos](#videos)
 
-### Recursos
+## Recursos
 
 #### Logica de programacion
 
@@ -43,9 +43,16 @@
 
 #### Simulacion de Sistemas
 
-### Sitios/Blogs
+## Sitios/Blogs
 
-### Videos
+## Videos
+
+### Playlists
+- > Ninguno por ahora
+
+### Videos individuales
+
+- > Ninguno por ahora
 
 
 
