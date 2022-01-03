@@ -49,10 +49,6 @@
 ### Playlists
 - > Ninguno por ahora
 
-### Videos individuales
-
-- > Ninguno por ahora
-
 
 
 ## Contributing 
