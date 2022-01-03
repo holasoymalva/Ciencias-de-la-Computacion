@@ -5,7 +5,7 @@
 ### Logica de programacion
 
 ### Algoritmos Computacionales
-* []
+* []()
 
 ### Base de datos
 
