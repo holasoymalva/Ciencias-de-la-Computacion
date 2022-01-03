@@ -10,15 +10,15 @@
 
 ## Recursos
 
-#### Lógica de programación
+#### Lógica de programación.
 
-#### Algoritmos Computacionales
+#### Algoritmos Computacionales.
 
-#### Bases de datos
+#### Bases de datos.
 
-#### Diseño y arquitectura de sistemas
+#### Diseño y arquitectura de sistemas.
 
-#### Desarrollo de Prototipos
+#### Desarrollo de Prototipos.
 
 #### Teoría computacional y de autómatas.
 
