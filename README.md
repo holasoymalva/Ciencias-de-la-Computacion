@@ -4,26 +4,28 @@
 
 ### Logica de programacion
 
-### Algoritmos Computacionales
+#### Algoritmos Computacionales
 * []()
 
-### Base de datos
+#### Base de datos
 
-### Diseño y arquitectura de sistemas
+#### Diseño y arquitectura de sistemas
 
-### Desarrollo de Prototipos
+#### Desarrollo de Prototipos
 
-### Teoria computacional y Automatas
+#### Teoria computacional y Automatas
 
-### Matematicas discretas
+#### Matematicas discretas
 
-### Sistemas Digitales
+#### Sistemas Digitales
 
-### Robotica Mobil
+#### Robotica Mobil
 
-### Introduccion a la Inteligencia Artificial
+#### Introduccion a la Inteligencia Artificial
 
-### Estadistica Y probabilidad
+#### Estadistica 
+
+#### Probabilidad
 
 
 ## Contributing 
