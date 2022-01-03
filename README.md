@@ -10,7 +10,7 @@
 
 ## Recursos
 
-### Logica de programacion
+#### Logica de programacion
 
 #### Algoritmos Computacionales
 * []()
