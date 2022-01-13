@@ -2,6 +2,10 @@
 
 > Una lista de recursos y apuntes sobre Ciencias de la Computación en español.
 
+## Indice
+
+- [Matemáticas discretas.](./01-matematicas-discretas.md)
+
 ## Tabla de contenidos
 
 - [Recursos](#recursos)
