@@ -18,3 +18,9 @@ Los tipos de datos nos ayudan a transmitir a la computadora la naturaleza de los
 ## Operaciones Aritmeticas con Sistema Binario, Octal y Hexadecimal.
 
 ## Operaciones con conjuntos y su representacion.
+
+## Proposiciones Logicas
+
+## Operadores Logicos y Tablas de verdad
+
+## Relaciones y Operaciones con relaciones
