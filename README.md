@@ -5,6 +5,7 @@
 ## Indice
 
 - [Matemáticas discretas.](./01-mates-discretas.md)
+- [Sistema Operativo](./02-sistemas-operativos.md)
 
 ## Tabla de contenidos
 
