@@ -23,4 +23,6 @@ Los tipos de datos nos ayudan a transmitir a la computadora la naturaleza de los
 
 ## Operadores Logicos y Tablas de verdad
 
-## Relaciones y Operaciones con relaciones
+## Relaciones, propiedades de las relaciones y Operaciones con relaciones
+
+## Tipos de relaciones y diagramas de Hass
