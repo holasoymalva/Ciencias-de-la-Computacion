@@ -1,4 +1,4 @@
-# Matematicas Discretas
+# Matemática Discretas
 
 ## Tipos de datos
 Los tipos de datos nos ayudan a transmitir a la computadora la naturaleza de los datos que se van a procesar.Los tipos de datos básicos más usuales en informática son:
