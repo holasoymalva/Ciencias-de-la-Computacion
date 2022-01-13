@@ -10,6 +10,11 @@ Los tipos de datos nos ayudan a transmitir a la computadora la naturaleza de los
 
 ## Sistemas numericos
 
+- **Sistema Decimal** :  Valores: `0123456789`, Ejemplo: `2, 10, 123` 
+- **Sistema Binario** :  Valores: `01`, Ejemplo: `10010`
+- **Sistema Octal** :  Valores: `01234567`, Ejemplo: `123` 
+- **Sistema Hexadecimal** :  Valores: `0123456789ABCDEF`, Ejemplo: `D34`
+
 ## Operaciones Aritmeticas con Sistema Binario, Octal y Hexadecimal.
 
 ## Operaciones con conjuntos y su representacion.
