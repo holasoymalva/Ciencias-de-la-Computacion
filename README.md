@@ -4,7 +4,7 @@
 
 ## Indice
 
-- [Matemáticas discretas.](./01-matematicas-discretas.md)
+- [Matemáticas discretas.](./01-mates-discretas.md)
 
 ## Tabla de contenidos
 
