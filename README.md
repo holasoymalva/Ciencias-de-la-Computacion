@@ -53,6 +53,7 @@
 
 ### Playlists
 - > Ninguno por ahora
+- Solo de [Musica Para estudiar](https://open.spotify.com/playlist/3u8Vp1QQn996ISN9ecCSJ6?si=cd99ec6b0186404c)
 
 
 
