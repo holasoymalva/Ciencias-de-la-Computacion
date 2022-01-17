@@ -17,6 +17,9 @@ Los tipos de datos nos ayudan a transmitir a la computadora la naturaleza de los
 
 ## Operaciones Aritmeticas con Sistema Binario, Octal y Hexadecimal.
 
+### Operaciones aritmeticas con sistema octal
+La suma octal se conoce como suma decimal, es decir por coluumnas y de dereacha a izquierda. La unica diferencia radica en el resultado de cada suma, **si este excede a la base del sistema octal(8) tendras que restar 8 y acarrear 1 a la siguiente columna**. Observa el siguiente ejemplo para que te quede mas claro.
+
 ## Operaciones con conjuntos y su representacion.
 
 ## Proposiciones Logicas
