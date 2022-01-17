@@ -26,6 +26,7 @@ Los tipos de datos nos ayudan a transmitir a la computadora la naturaleza de los
   - Si la suma es igual o menor a 15, esta puede expresarse como un digito hexadecimal.
   - Si la suma es mayor o igual a 16, se restara 16 y se acarreara 1 hacia el digito de la siguiente posicion. 
 
+## Conjuntos y Operaciones con conjuntos
 
 ## Operaciones con conjuntos y su representacion.
 
