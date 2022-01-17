@@ -21,7 +21,10 @@ Los tipos de datos nos ayudan a transmitir a la computadora la naturaleza de los
 
 - **La suma octal** :  se conoce como suma decimal, es decir por columnas y de dereacha a izquierda. La unica diferencia radica en el resultado de cada suma, **si este excede a la base del sistema octal(8) tendras que restar 8 y acarrear 1 a la siguiente columna**.
 - **La resta ocatal** : se realiza igual que una resta decimal, pero en **caso de que el numero de abajo sea mayor que el de arriba, pedira prestado 8 a la siguiente columna** y se restara **1** a la columna que lo presto. 
-- 
+- **La suma hexadecimal** : se realiza igual que la suma decimal, pero considerando que el digito de mayor valor es la letra F, es decir, 15. Se deben seguir las siguiente reglas:
+  - Suma los dos digitos hexadecimales en decimal, utilizando el equivalente hexadecimal para numeros mayores a nueve.
+  - Si la suma es igual o menor a 15, esta puede expresarse como un digito hexadecimal.
+  - Si la suma es mayor o igual a 16, se restara 16 y se acarreara 1 hacia el digito de la siguiente posicion. 
 
 
 ## Operaciones con conjuntos y su representacion.
