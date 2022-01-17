@@ -36,7 +36,12 @@ Los tipos de datos nos ayudan a transmitir a la computadora la naturaleza de los
   - Conjuntos finitos e infinitos
 
 ## Conjuntos
-Un conjunto es **Una agrupacion de objetos.** Se puede representar de dos maneras: por extencion y por comprension.
+
+Un conjunto es **Una agrupacion de objetos.** Se puede representar de dos maneras: por extencion y por comprension. Los conjuntos nos ayudan a agrupar y clasificar objetos.
+
+Para formar mas clasificaciones, existen cuatro operaciones con conjuntos: union, interseccion, diferencia y complemento.
+
+Una manera facil de representarlos es con los diagranas de Venn.
 
 ## Operaciones con conjuntos y su representacion.
 
