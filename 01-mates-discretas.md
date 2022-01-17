@@ -35,6 +35,8 @@ Los tipos de datos nos ayudan a transmitir a la computadora la naturaleza de los
     - Complemento
   - Conjuntos finitos e infinitos
 
+## Conjuntos
+Un conjunto es **Una agrupacion de objetos.** Se puede representar de dos maneras: por extencion y por comprension.
 
 ## Operaciones con conjuntos y su representacion.
 
